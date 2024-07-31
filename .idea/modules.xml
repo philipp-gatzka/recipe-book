@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/recipe-book.iml" filepath="$PROJECT_DIR$/.idea/modules/recipe-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recipe-book-data/recipe-book.recipe-book-data.main.iml" filepath="$PROJECT_DIR$/.idea/modules/recipe-book-data/recipe-book.recipe-book-data.main.iml" />
     </modules>
   </component>
 </project>
